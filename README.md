@@ -96,5 +96,6 @@ javac src/*.java -d bin
 Run the simulation:
 java -cp bin Main
 
-##📄 LICENSE
+## 📄 LICENSE
+
 This project is licensed under the MIT License.
